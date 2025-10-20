@@ -1,7 +1,7 @@
 ### Sensitivity in Video Games
 
 A lot of video games allow the players to tweak mouse/joystick sensitivity, both
-to compensate for differences in different hardware, as well as to cather for
+to compensate for differences in different hardware, as well as to cater to
 personal preferences.
 
 In most video games, however, the sensitivity is configured by asking the player
