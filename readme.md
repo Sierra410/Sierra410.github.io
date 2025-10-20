@@ -11,7 +11,7 @@ value might be a floating point number between 0 and 1, in another it might be a
 range from 0 to 20, 50 or 100. Sometimes no numbers are shown at all, so all
 there is to see is a nondescript position on a slider.
 
-As the result, dialing-in the sensitivity to the desired state is a
+As a result, dialing-in the sensitivity to the desired state is a
 trial-and-error process.
 
 Since the value in inputted before the player can "feel it out", I dub it
