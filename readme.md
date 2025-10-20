@@ -14,7 +14,7 @@ there is to see is a nondescript position on a slider.
 As a result, dialing-in the sensitivity to the desired state is a
 trial-and-error process.
 
-Since the value in inputted before the player can "feel it out", I dub it
+Since the value is set before the player can "feel it out", I dub it
 "value-to-feel" method.
 
 ### Feel-to-Value
